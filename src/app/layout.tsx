@@ -28,6 +28,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/* Implemanet as quixk */}
+        {/* Implement the pin part ie, the input and textarea of the feild io, and op */}
         {children}
       </body>
     </html>
